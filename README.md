@@ -1,7 +1,6 @@
-> ### 나도 <개발자>가 될 수 있을까?
-<pre> 개발공부, 노력하고 있습니다🔥 </pre>
+> ### 일단이의 영어마을
+<pre> 영어 습관 형성은 물론, 계속 학습을 이어나갈 수 있는 성공의 경험을 선사합니다🌟 </pre>
 ![readme](https://user-images.githubusercontent.com/100851211/193508203-3c512c48-7a40-444d-ad5d-43e84a1b878f.png)
-
 
 <br>
 
@@ -9,14 +8,14 @@
 <pre> <a href="https://retro-music.co.kr" target="_blank">RE:tro(레트로)</a> 레트로 음악 큐레이션/검색 사이트 </pre>
 * <a href="https://www.notion.so/RE-TRO-15d5dadcf1924e36bba7888977c379e2" target="_blank"> 레트로소개 </a>
 
-<pre> <a href="https://www.mptifriend.com" target="_blank">mpti(믑티)</a> MBTI 기반 커뮤니티 서비스 </pre>
-* <a href="https://melodic-crane-7eb.notion.site/MBTI-e5b6da6ce0cf4ecc82d9c6add6a2ea80" target="_blank"> 믑티소개 </a>
 
-<pre> <a href="https://d-velkit.com" target="_blank">D.Velkit(디벨킷)</a> 프로젝트 협업 툴 서비스 </pre>
-
-<pre> <a href="#" target="_blank">일단이의영어마을</a> 영어단어 학습 서비스  </pre>
-
-
+|내용|설명|
+|------|---|
+|프로젝트 명|일단이의영어마을|
+|프로젝트 기간|2022.08.26 ~ 2022.10.07|
+|배포 URL|https://ildanenglish.com|
+|**FE** GitHub URL|https://github.com/C-2-mainproject/FE-mainproject|
+|**BE** GitHub URL|https://github.com/C-2-mainproject/BE-mainproject|
 
 <br>
 <br>
