@@ -78,7 +78,7 @@
 ![05](https://user-images.githubusercontent.com/100851211/193552533-69d87470-04f4-4056-88be-ee552bec349f.png)
 |역할|이름|GitHub|
 |------|---|---|
-|BE리더|장동하|https://github.com/SoJaeBeom|
+|BE리더|장동하|https://github.com/jangdongha|
 
 <hr>
 
