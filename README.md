@@ -21,20 +21,6 @@
 <br>
 <br>
 <div>
-  <h3>🎨원래 디자이너였다면서?🎨</h3>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/100851211/193551848-38047a6c-db2b-4624-bb20-5863fe38d341.png">
-
-<!-- align="center" -->
-<div>
   <h3>📝FE 공부중 또는 예정📝</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -45,7 +31,29 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
+<br>
+<img src="https://user-images.githubusercontent.com/100851211/193551848-38047a6c-db2b-4624-bb20-5863fe38d341.png">
 
+<br>
+
+![01](https://user-images.githubusercontent.com/100851211/193552524-489e8018-6c91-4160-bfcd-93700e6465ca.png)
+|역할|이름|GitHub|
+|------|---|---|
+|FE리더|소재범|https://github.com/SoJaeBeom|
+
+![05](https://user-images.githubusercontent.com/100851211/193552533-69d87470-04f4-4056-88be-ee552bec349f.png)
+|역할|이름|GitHub|
+|------|---|---|
+|BE리더|장동하|https://github.com/SoJaeBeom|
+
+![02](https://user-images.githubusercontent.com/100851211/193552527-8eebc9bd-5b61-4310-92b7-79fda46b20b9.png)
+
+
+![03](https://user-images.githubusercontent.com/100851211/193552529-bd3e347d-ef85-41dd-b636-2fc6d69688c5.png)
+
+![04](https://user-images.githubusercontent.com/100851211/193552531-c87929e1-4f16-426a-84c6-90e16034e955.png)
+
+![06](https://user-images.githubusercontent.com/100851211/193552536-4e6405c3-ebd5-4648-a3b1-1085edde7c9d.png)
 
 <br>
 
