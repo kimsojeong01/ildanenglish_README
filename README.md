@@ -23,6 +23,7 @@
 |배포 URL|https://ildanenglish.com|
 |**FE** GitHub URL|https://github.com/C-2-mainproject/FE-mainproject|
 |**BE** GitHub URL|https://github.com/C-2-mainproject/BE-mainproject|
+|**프로젝트 문서**|<a href="https://www.notion.so/097815e1f8854a7597ed8147f736b0d6#ef58268541fa4938ab5a34ebfff6742d">📝프로젝트 문서 바로가기</a>|
 
 <br>
 <br>
